@@ -1,0 +1,6 @@
+C:\Users\שיר יהודה\source\repos\dotNet5780_02_8228_9333\dotNet5780_02_8228_9333\obj\Debug\dotNet5780_02_8228_9333.csprojAssemblyReference.cache
+C:\Users\שיר יהודה\source\repos\dotNet5780_02_8228_9333\dotNet5780_02_8228_9333\bin\Debug\dotNet5780_02_8228_9333.exe.config
+C:\Users\שיר יהודה\source\repos\dotNet5780_02_8228_9333\dotNet5780_02_8228_9333\bin\Debug\dotNet5780_02_8228_9333.exe
+C:\Users\שיר יהודה\source\repos\dotNet5780_02_8228_9333\dotNet5780_02_8228_9333\bin\Debug\dotNet5780_02_8228_9333.pdb
+C:\Users\שיר יהודה\source\repos\dotNet5780_02_8228_9333\dotNet5780_02_8228_9333\obj\Debug\dotNet5780_02_8228_9333.exe
+C:\Users\שיר יהודה\source\repos\dotNet5780_02_8228_9333\dotNet5780_02_8228_9333\obj\Debug\dotNet5780_02_8228_9333.pdb
